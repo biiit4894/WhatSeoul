@@ -225,7 +225,7 @@ UI 개발<br>
 <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
 <img alt="Thymeleaf" src ="https://img.shields.io/badge/Thymeleaf-005F0F.svg?&style=for-the-badge&logo=thymeleaf&logoColor=white"/>
 
-IDEA<br>
+IDE<br>
 <img alt="Intellij IDEA" src ="https://img.shields.io/badge/Intellij Idea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/>
 
 협업 툴<br>
